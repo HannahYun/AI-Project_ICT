@@ -1,2 +1,2 @@
-# AI-Project_ICT
-AI Project_ICTIS
+# AI-MiniProject_ICT
+AI Mini Project - ICTIS
