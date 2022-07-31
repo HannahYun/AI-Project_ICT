@@ -1,2 +1,2 @@
-# AI-MiniProject_ICT
-AI Mini Project - ICTIS
+# Seoul_ICT_InnovationSquare
+Mini Project
